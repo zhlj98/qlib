@@ -9,6 +9,7 @@
 
 ## :newspaper: **What's NEW!** &nbsp;   :sparkling_heart: 
 Recent released features
+
 | Feature | Status |
 | --                      | ------    |
 | HIST and IGMTF models | :chart_with_upwards_trend: [Released](https://github.com/microsoft/qlib/pull/1040) on Apr 10, 2022 |
@@ -134,6 +135,7 @@ Here is a quick **[demo](https://terminalizer.com/view/3f24561a4470)** shows how
 ## Installation
 
 This table demonstrates the supported Python version of `Qlib`:
+
 |               | install with pip           | install from source  | plot |
 | ------------- |:---------------------:|:--------------------:|:----:|
 | Python 3.7    | :heavy_check_mark:    | :heavy_check_mark:   | :heavy_check_mark: |
@@ -307,7 +309,8 @@ Qlib provides a tool named `qrun` to run the whole workflow automatically (inclu
     - Portfolio analysis
       - Backtest return
       ![Report](http://fintech.msra.cn/images_v070/analysis/report.png?v=0.1)
-      <!-- 
+      
+<!-- 
       - Score IC
       ![Score IC](docs/_static/img/score_ic.png)
       - Cumulative Return
@@ -478,11 +481,12 @@ This project welcomes contributions and suggestions.
 Making contributions is not a hard thing. Solving an issue(maybe just answering a question raised in [issues list](https://github.com/microsoft/qlib/issues) or [gitter](https://gitter.im/Microsoft/qlib)), fixing/issuing a bug, improving the documents and even fixing a typo are important contributions to Qlib.
 
 For example, if you want to contribute to Qlib's document/code, you can follow the steps in the figure below.
+
 <p align="center">
-  <img src="https://github.com/demon143/qlib/blob/main/docs/_static/img/change%20doc.gif" />
-</p>
+  <img src="https://github.com/demon143/qlib/blob/main/docs/_static/img/change%20doc.gif" /></p>
 
 If you don't know how to start to contribute, you can refer to the following examples.
+
 | Type | Examples |
 | -- | -- |
 | Solving issues | [Answer a question](https://github.com/microsoft/qlib/issues/749);  [issuing](https://github.com/microsoft/qlib/issues/765) or [fixing](https://github.com/microsoft/qlib/pull/792) a bug |
